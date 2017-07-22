@@ -1,0 +1,8 @@
+fg\MetricsController.class
+fg\Metric.class
+fg\Metrics.class
+fg\MetricsManager.class
+fg\TimeRange.class
+fg\BaseEntity.class
+fg\MetricService.class
+fg\MetricDao.class
